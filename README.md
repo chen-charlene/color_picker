@@ -5,5 +5,7 @@ In this project we created a color picker that allows users to capture colors fr
 
 
 Project Report
+
+
 [Link to Final Report](https://docs.google.com/document/d/1Bid64WjYQiT0bb0euVwkQpetQpTJHBmqMM6tiEDoqxg/edit?usp=sharing)
 
